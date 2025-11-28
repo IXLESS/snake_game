@@ -10,6 +10,12 @@ The classic Snake Game is a simple yet addictive arcade-style program where the 
 - Score tracking
 - Collision detection
 
+## 🕹️ Controls
+- ⬆️ Up Arrow — move up
+- ⬇️ Down Arrow — move down
+- ⬅️ Left Arrow — move left
+- ➡️ Right Arrow — move right
+
 ## 🚀 How to Run
 1. Make sure you have Python 3 installed on your system. 
 You can check by running: python3 --version
